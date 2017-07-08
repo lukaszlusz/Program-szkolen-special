@@ -8,12 +8,21 @@
 	Tak samo jest dla wszystkich innych osób. <br/>
 	Najbardziej ekstemalny przykład dla łatwiejszego zrozumienia działania schematu - dowódcy pierdolnika nie obchodzi śmierć jakiegoś szeregowego.<br/>
 #### Informacje dla dowódców oddziałów
+<<<<<<< Updated upstream
 	Ważne jest, aby głównodowodzący wiedział co się dzieje z oddziałami. <br/>
 	Nie może dojść do sytuacji, w której nie ma kontaktu z oddziałem i nie wiadomo nawet gdzie on był.<br/>
 	Jeśli oddział znajduje się pod ostrzałem a dowódca nie jest w bezpiecznym miejscu to powinien jak najszybciej poinformować dowództwo o tym fakcie mniej więcej taką wiadomością:<br/>
 	"[Znak wywoławczy dowództwa], tu [Znak wywoławczy oddziału]. Jesteśmy [pozycja (cokolwiek co pozwoli w łatwy sposób ustalić gdzie jesteście, współrzędne, punkt orientacyjny itd.)] [opis co się dzieje]"<br/>
 	W ten sposób zmniejsza się szansę, że dowódca zginie zanim przekaże najważniejszą informację dowództwu - uwaga tutaj coś się dzieje.<br/>
 	Nawet jeśli poda tylko pozycję i go zabiją, to i tak jest to lepsze niż powiedzenie, że atakuje nas czołg. Taka informacja może być przydatna, ale i tak nie wiadomo gdzie jest ten czołg, czy to na pewno czołg i czy może nie swój.<br/>
+=======
+Ważne jest, aby głównodowodzący wiedział co się dzieje z oddziałami. <br/>
+Nie może dojść do sytuacji, w której nie ma kontaktu z oddziałem i nie wiadomo nawet gdzie on był.<br/>
+Jeśli oddział znajduje się pod ostrzałem a dowódca nie jest w bezpiecznym miejscu to powinien jak najszybciej poinformować dowództwo o tym fakcie mniej więcej taką wiadomością:<br/>
+	"[Znak wywoławczy dowództwa], tu [Znak wywoławczy oddziału]. Jesteśmy [pozycja (cokolwiek co pozwoli w łatwy sposób ustalić gdzie jesteście, współrzędne, punkt orientacyjny itd.)] [opis co się dzieje]"<br/>
+W ten sposób zmniejsza się szansę, że dowódca zginie zanim przekaże najważniejszą informację dowództwu - uwaga tutaj coś się dzieje.<br/>
+Nawet jeśli poda tylko pozycję i go zabiją, to i tak jest to lepsze niż powiedzenie, że atakuje nas czołg. Taka informacja może być przydatna, ale i tak nie wiadomo gdzie jest ten czołg, czy to na pewno czołg i czy może nie swój.<br/>
+>>>>>>> Stashed changes
 #### Informacje dla dowódców sekcji
 	W przypadku, gdy nie ma kontaktu z Waszym dowódcą, jeden z Was powinien przejąć jego obowiązki dowodzenia oddziałem i komunikacji na kanale dowodzenia.<br/>
 	Jeśli od dłuższego czasu dowódca się nie odzywał to nie bójcie się zapytać na radiu. Może się okazać, że od kilku minut nie żyje a w Waszą pozycję zaraz uderzy głowica atomowa.<br/>
