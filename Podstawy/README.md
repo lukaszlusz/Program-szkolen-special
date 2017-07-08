@@ -24,33 +24,33 @@
 		Dowódca oddziału powinien wiedzieć gdzie znajdują się jego zespoły i jakie dał im zadanie, by w razie utraty kontaktu wiedzieć gdzie szukać.<br/>
 2. Podstawowa współpraca piechoty z pojazdami<br/>
 	* Naprawa pojazdów<br/>
-		Czasem w pojeździe zostanie zniszczone koło. Nie oznacza to, że należy go porzucić.<br/>
-		Po otworzeniu menu ACE (klawisz Windows) i najechaniu na pojazd ukaże się napis "Interakcje".<br/>
-		Następnie mamy "ładunek" i czasami "pasażerowie". Po najechaniu na ładunek i puszczeniu klawisza Windows otworzy się okienko z menu ładunku pojazdu.<br/>
-		W większości pojazdów kołowych zobaczymy tam koło zapasowe. Gdy skończymy je wyjmować powinno leżeć gdzieś obok pojazdu.<br/>
-		Następnie możemy z menu ACE je przenieść lub załadować do pojazdu.<br/>
-		Gdy umieścimy koło blisko miejsca gdzie chcemy je zamontować to powinna się pojawić interakcja "Wymień koło"<br/>
-		Jeśli chcemy wymontować koło z pojazdu to w tym samym miejscu powinna być interakcja "Zdejmij koło". <br/>
-		W ten sposób po wyjęciu kół z jednego pojazdu można z dwóch pojazdów skleić jeden, lub wziąć sobie dodatkowe zapasy.<br/>
+		Czasem w pojeździe zostanie zniszczone koło. Nie oznacza to, że należy go porzucić. 
+		Po otworzeniu menu ACE (klawisz Windows) i najechaniu na pojazd ukaże się napis "Interakcje". 
+		Następnie mamy "ładunek" i czasami "pasażerowie". Po najechaniu na ładunek i puszczeniu klawisza Windows otworzy się okienko z menu ładunku pojazdu. 
+		W większości pojazdów kołowych zobaczymy tam koło zapasowe. Gdy skończymy je wyjmować powinno leżeć gdzieś obok pojazdu. 
+		Następnie możemy z menu ACE je przenieść lub załadować do pojazdu. 
+		Gdy umieścimy koło blisko miejsca gdzie chcemy je zamontować to powinna się pojawić interakcja "Wymień koło" 
+		Jeśli chcemy wymontować koło z pojazdu to w tym samym miejscu powinna być interakcja "Zdejmij koło". 
+		W ten sposób po wyjęciu kół z jednego pojazdu można z dwóch pojazdów skleić jeden, lub wziąć sobie dodatkowe zapasy. 
 	* Chowanie się za pojazdami<br/>
 		W sytuacji, gdy znajdujesz się pod ostrzałem powinieneś jak najszybciej znaleźć osłonę.<br/>
 		Czasami najbliżej znajduje się pojazd i to za nim należy szukać schronienia.<br/>
 		W takiej sytuacji trzeba mieć na uwadze czy:<br/>
-			pojazd się porusza (!)<br/>
-			pojazd jest obsadzony<br/>
-			dopiero się zatrzymał<br/>
-			wydaje się gotowy do jazdy (obecność kierowcy)<br/>
-			jest to czołg lub IFV<br/>
-			pojazd jest wrogi<br/>
-		Jeśli odpowiedź na którykolwiek punkt jest twierdząca należy zachować bezpieczną odległość od takiego pojazdu a nie przyklejać się, chyba że sytuacja tego wymaga.<br/>
-		Należy pamiętać, że bycie schowanym za osłoną nie zawsze oznacza stanie tuż przy niej.<br/>
+			- pojazd się porusza (!)<br/>
+			- pojazd jest obsadzony<br/>
+			- dopiero się zatrzymał<br/>
+			- wydaje się gotowy do jazdy (obecność kierowcy)<br/>
+			- jest to czołg lub IFV<br/>
+			- pojazd jest wrogi<br/>
+		Jeśli odpowiedź na którykolwiek punkt jest twierdząca należy zachować bezpieczną odległość od takiego pojazdu a nie przyklejać się, chyba że sytuacja tego wymaga. 
+		Należy pamiętać, że bycie schowanym za osłoną nie zawsze oznacza stanie tuż przy niej.
 	* Poruszanie się pod osłoną pojazdu<br/>
-		Jest to bardzo ważny manewr, który każda zespołówa powinna móc wykonać. Szczególnie przydatny, gdy przeprowadzany jest szturm na umocnione pozycje lub miast.<br/>
-		Zmniejsza on ewentualne straty, do których mogło by dojść w przypadku zniszczenia pojazdu (zginie tylko załoga a nie cały oddział).<br/>
-		Do dobrego przebiegu tego manewru potrzebna jest koordynacja piechoty z pojazdem.<br/>
-		Kierowca powinien poruszać się z odpowiednią prędkością, tak aby osłaniać piechotę swoim kadłubem przed ostrzałem wroga.<br/>
-		Podczas ostrzału od frontu (z kierunku gdzie zmierzamy) to zazwyczaj najlepiej, gdy piechota porusza się za pojazdem - zwiększa to szybkość oraz zmniejsza ryzyko przejechania ale i osłonę jaką zapewnia pojazd.<br/>
-		Jeśli ostrzał następuje od boku, to piechota powinna poruszać się po odpowiedniej stronie pojazdu.<br/>
+		Jest to bardzo ważny manewr, który każda drużyna powinna móc wykonać. Szczególnie przydatny, gdy przeprowadzany jest szturm na umocnione pozycje lub miasta. 
+		Zmniejsza on ewentualne straty, do których mogło by dojść w przypadku zniszczenia pojazdu (zginie tylko załoga a nie cały oddział). 
+		Do dobrego przebiegu tego manewru potrzebna jest koordynacja piechoty z pojazdem. 
+		Kierowca powinien poruszać się z odpowiednią prędkością, tak aby osłaniać piechotę swoim kadłubem przed ostrzałem wroga. 
+		Podczas ostrzału od frontu (z kierunku gdzie zmierzamy) to zazwyczaj najlepiej, gdy piechota porusza się za pojazdem - zwiększa to szybkość oraz zmniejsza ryzyko przejechania ale i osłonę jaką zapewnia pojazd. 
+		Jeśli ostrzał następuje od boku, to piechota powinna poruszać się po odpowiedniej stronie pojazdu. 
 	* Ćwiczenie praktycze - szturm na wrogie pozycje przy użyciu pojazdów<br/>
 3. Podstawowe zasady walki piechoty<br/>
 	* Podstawowy podział obowiązków<br/>
@@ -68,21 +68,21 @@
 		Nie ma sensu, żeby wszyscy z oddziału obserwowali ten sam obszar. Należy prowadzić obserwacje szeroko, najlepiej rozdzielić kto gdzie patrzy aby uniknąć oflankowania, które zazwyczaj kończy się śmiercią przynajmniej kilku osób.<br/>
 	* Obsługa dostępnego sprzętu<br/>
 		###### Granaty dymne <br/>
-		Dobre do osłaniania podejścia, odwrotu, przejścia czy przeniesienia. <br/>
-		W sytuacji gdy leży ranny w miejscu niebezpiecznym dobrze jest najpierw rzucić granat dymny by zasłonić go i dopiero pójść i go podnieść/przenieść.<br/>
-		Trochę czasu zajmie zanim zaczną się dymić maksymalnie.<br/>
-		Działa na nie wiatr.<br/>
+		- Dobre do osłaniania podejścia, odwrotu, przejścia czy przeniesienia. <br/>
+		- W sytuacji gdy leży ranny w miejscu niebezpiecznym dobrze jest najpierw rzucić granat dymny by zasłonić go i dopiero pójść i go podnieść/przenieść.<br/>
+		- Trochę czasu zajmie zanim zaczną się dymić maksymalnie.<br/>
+		- Działa na nie wiatr.<br/>
 		###### Granatnik<br/>
-		Bardzo potężna broń, ale łatwo o ostrzał swoich, dlatego najlepiej się upewnić przed rozpoczęciem ostrzału.<br/>
-		Dobra do oczyszczania bunkrów/budynków.<br/>
-		Granatnik pod karabinem może strzelać flarami i granatami dymnymi. Te ostatnie mogą być używane do oznaczania pozycji nieprzyjaciela dla wsparcia powietrznego.<br/>
+		- Bardzo potężna broń, ale łatwo o ostrzał swoich, dlatego najlepiej się upewnić przed rozpoczęciem ostrzału.<br/>
+		- Dobra do oczyszczania bunkrów/budynków.<br/>
+		- Granatnik pod karabinem może strzelać flarami i granatami dymnymi. Te ostatnie mogą być używane do oznaczania pozycji nieprzyjaciela dla wsparcia powietrznego.<br/>
 		###### Karabin maszynowy<br/>
-		Świetna broń do prowadzenia ognia zaporowego. <br/>
-		Bardzo dobrze się spisuje do osłaniania podejścia lub odwrotu sojuszniczych jednostek, gdyż skutecznie zniechęca wrogą piechotę do wychylania się i ryzykowania.<br/>
-		Najlepiej strzelać seriami 5-8 strzałów, by oszczędzać amunicję.<br/>
+		- Świetna broń do prowadzenia ognia zaporowego. <br/>
+		- Bardzo dobrze się spisuje do osłaniania podejścia lub odwrotu sojuszniczych jednostek, gdyż skutecznie zniechęca wrogą piechotę do wychylania się i ryzykowania.<br/>
+		- Najlepiej strzelać seriami 5-8 strzałów, by oszczędzać amunicję.<br/>
 		###### Granaty ręczne<br/>
-		Zbindować na 2xG.<br/>
-		Jak chcesz rzucić takim granatem to lepiej się odsuń od innych na wszelki wypadek.<br/>
-		Można użyć specjalnego trybu rzucania (Shift + G), który pokazuje tor lotu granatu.<br/>
-		Jak rzucasz taki granat to poinformuj innych, żeby nie wpadli akurat na pomysł atakować w tamtą stronę.<br/>
+		- Zbindować na 2xG.<br/>
+		- Jak chcesz rzucić takim granatem to lepiej się odsuń od innych na wszelki wypadek.<br/>
+		- Można użyć specjalnego trybu rzucania (Shift + G), który pokazuje tor lotu granatu.<br/>
+		- Jak rzucasz taki granat to poinformuj innych, żeby nie wpadli akurat na pomysł atakować w tamtą stronę.<br/>
 	* Ćwiczenie praktyczne - atak na pozycje wroga
