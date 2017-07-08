@@ -1,0 +1,1 @@
+{zeus addCuratorEditableObjects [[_x],true]} forEach allUnits;
