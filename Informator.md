@@ -1,19 +1,20 @@
 # Informator
 ## Spis treści
+[Wskazówki dla Madina odnośnie misji](https://github.com/lukaszlusz/Program-szkolen-special/blob/master/Informator.md#wskaz%C3%B3wki-dla-madina)<br/>
 [Wskazówki dla dowódców](https://github.com/lukaszlusz/Program-szkolen-special/blob/master/Informator.md#wskaz%C3%B3wki-dla-dow%C3%B3dc%C3%B3w)<br/>
 [Radio i komunikacja](https://github.com/lukaszlusz/Program-szkolen-special/blob/master/Informator.md#radio-i-komunikacja)<br/>
-	[Znaczniki na mapie](https://github.com/lukaszlusz/Program-szkolen-special/blob/master/Informator.md#znaczniki-na-mapie)<br/>
-	[Kanały radiowe](https://github.com/lukaszlusz/Program-szkolen-special/blob/master/Informator.md#kana%C5%82y-radiowe)<br/>
+	+ [Znaczniki na mapie](https://github.com/lukaszlusz/Program-szkolen-special/blob/master/Informator.md#znaczniki-na-mapie)<br/>
+	+ [Kanały radiowe](https://github.com/lukaszlusz/Program-szkolen-special/blob/master/Informator.md#kana%C5%82y-radiowe)<br/>
 
 ## Wskazówki dla Madina
 
 Odnośnie misji (12.07 - Środa) na Czarnorusi:
-* Zmienić domyślne kanały radiowe oddziałów według [poniższej tabelki](https://github.com/lukaszlusz/Program-szkolen-special/blob/master/Informator.md#kana%C5%82y-radiowe) - czas posprzątać ten bałagan, a najlepszym sposobem jest narzucenie zmiany odgórnie.
-* Wyposażyć piechotę w więcej pojazdów takich jak BTR (70/80). 1 na oddział będzie ok, bo jak nie stracą to tam z 20 ludzi wchodzi, a jak stracą to będzie jak zawsze ;)
+* Zmienić domyślne kanały radiowe oddziałów według [poniższej tabelki](https://github.com/lukaszlusz/Program-szkolen-special/blob/master/Informator.md#kana%C5%82y-radiowe) - czas posprzątać ten bałagan, a najlepszym sposobem jest narzucenie zmiany odgórnie. No chyba, że w tej misji nie ma automatycznych kanałów na starcie, to po prostu Iter na początku napisze jak ma być.
+* Wyposażyć piechotę w więcej pojazdów takich jak BTR (70/80). 1 na oddział będzie ok, zawsze to trochę siły ognia ale przede wszystkim może działać jako ruchoma osłona (UAZ i URAL nie bardzo). To powinno zmniejszyć straty przy szturmach przez otwarte pole (oczywiście jak będzie dobrze wykorzystane).
 * Nie wiem czy tak było, ale w module ACE od uzupełniania amunicji dać, żeby zapasy były nieskończone.
-* Dobrze by było ustawić helikopter jako pojazd naprawczy. Dodatkowo dodać skrzynkę [Box_NATO_AmmoVeh_F] (też dać jako naprawczą, bo może się nie dać wylądować helikopterem). Wtedy ekipa Medevac będzie mogła też pełnić funkcję serwisu polowego. Pozostaje tylko kwestia czy chcemy, żeby tylko ekipa Medevac mogła naprawiać pojazdy do białego (ustawienie 'Lokalizacja pełnej naprawy').
-* Dodać ze 2 plecaki do helikoptera (na narzędzia, bo się nie mieszczą nigdzie indziej)
-* Zmienić pojazdy serwisowe na Zieloni/AAF/Samochody/Kamaz, bo te HEMTT'y nie dość że amerykańskie, to jeszcze wielkie okropnie.
+* Dobrze by było ustawić helikopter jako pojazd naprawczy. Dodatkowo dodać skrzynkę, która może uzupełniać amunicję w pojazdach [Box_NATO_AmmoVeh_F] (dać też jako naprawczą, bo może się nie dać wylądować helikopterem). Wtedy ekipa Medevac będzie mogła też pełnić funkcję serwisu polowego. Pozostaje tylko kwestia czy chcemy, żeby tylko ekipa Medevac mogła naprawiać pojazdy do białego (ustawienie 'Lokalizacja pełnej naprawy'). No i już wiemy jak naprawiać do białego, źle to robiliśmy po prostu, teraz nie będzie problemu.
+* Dodać ze 4 (bo medycy chyba też powinni móc naprawiać na maksa) plecaki do helikoptera czy gdzieś w szpitalu (na narzędzia, bo się nie mieszczą nigdzie indziej) oraz te hełmy lotnicze zsz cośtam.
+* Zmienić pojazdy serwisowe na Zieloni/AAF/Samochody/Kamaz, bo te HEMTT'y nie dość że amerykańskie, to jeszcze wielkie okropnie a zaopatrzenia mają tyle samo. A, cysterny są jedynymi pojazdami z limitem zaopatrzenia, więc będzie je trzeba podczas misji wymieniać. 
 * Jeśli podczas misji będzie potrzeba pojazdów czy zrzutów zaopatrzenia, to dobrze zlecić to zadanie ekipie Medevac.
 * I ostatnia sprawa, czysto kosmetyczna, jeśli Ci się nie podoba, to nie ma sprawy. Zmienić ustawienia wizualne Mi-8. Skórka: United Nations (biały - będzie ewidentnie widać, że medyczny a nie wróg). Kolor numerów: Aviation Red. Numer boczny: 69 ( ͡° ͜ʖ ͡°). Napisy na ogonie: VVS Russia.
 
@@ -71,10 +72,10 @@ Nie musi być od razu na takim poziomie, ale jakby powiedzieć żeby coś takieg
 <br/>
 Zdecydowanie lepiej byłoby, gdyby dać osobny kolor nie dla oddziału, tylko dla rodzaju przekazywanej informacji (umocnienia itp. jednym kolorem, pojazdy drugim, czołgi jeszcze innym), ale ważniejsze chyba jest, żeby przekazać informację, niż szukać odpowiedniego koloru.
 ### Kanały radiowe
-Proponowane ułożenie kanałów radiowych
-D - długie radio
-K - krótkie radio
-60 lub 50 - jeśli Medevac pełni dodatkowo funkcję CAS to wtedy ten sam kanał (50)
+Proponowane ułożenie kanałów radiowych <br/>
+D - długie radio <br/>
+K - krótkie radio <br/>
+60 lub 50 - jeśli Medevac pełni dodatkowo funkcję CAS to wtedy ten sam kanał (50) <br/>
 
 Radio | Częstotliwość | Znak wywoławczy | Opis
 ------|---------------|-----------------|------
