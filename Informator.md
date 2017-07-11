@@ -53,7 +53,6 @@ Radio | Częstotliwość | Znak wywoławczy | Opis
 D | 50 | Mike | Medevac
 D | 60 lub 50 | November | CAS
 D/K | 70 | Zulu | Głównodowodzący - kanał dowodzenia
-
 K | 110 | Alpha | 1. oddział
 K | 120 | Bravo | 2. oddział
 K | 130 | Charlie | 3. oddział
@@ -63,6 +62,5 @@ K | 160 | Foxtrot | 1. drużyna wsparcia
 K | 170 | Golf | 2. drużyna wsparcia
 K | 180 | Hotel | 3. drużyna wsparcia
 K | 190 | India | 4. drużyna wsparcia
-
 K | 210 | Mike | Wewn. Medevac
 K | 220 | November | Wewn. CAS
