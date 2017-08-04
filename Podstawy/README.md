@@ -2,26 +2,26 @@
 ## 1. Podstawy komunikacji
 ### Wytłumaczenie organizacji komunikacji i struktury dowodzenia
 #### Główne założenie systemu:
-Szeregowy -> Dowódca sekcji -> Dowódca oddziału -> Dowódca tego pierdolnika<br/>
-Jak to czytać? Dla przykładu dowódca sekcji dowodzi szeregowymi i słucha poleceń dowódcy oddziału.<br/>
-Dowódca oddziału wydaje polecenia sekcjom a nie szeregowym.<br/>
+Szeregowy -> Dowódca sekcji -> Dowódca drużyny -> Dowódca tego pierdolnika<br/>
+Jak to czytać? Dla przykładu dowódca sekcji dowodzi szeregowymi i słucha poleceń dowódcy drużyny.<br/>
+Dowódca drużyny wydaje polecenia sekcjom a nie szeregowym.<br/>
 Tak samo jest dla wszystkich innych osób. <br/>
 Najbardziej ekstemalny przykład dla łatwiejszego zrozumienia działania schematu - dowódcy pierdolnika nie obchodzi śmierć jakiegoś szeregowego.<br/>
 #### Informacje dla dowódców oddziałów
-Ważne jest, aby głównodowodzący wiedział co się dzieje z oddziałami. <br/>
-Nie może dojść do sytuacji, w której nie ma kontaktu z oddziałem i nie wiadomo nawet gdzie on był.<br/>
-Jeśli oddział znajduje się pod ostrzałem a dowódca nie jest w bezpiecznym miejscu to powinien jak najszybciej poinformować dowództwo o tym fakcie mniej więcej taką wiadomością:<br/>
-`[Znak wywoławczy dowództwa], tu [Znak wywoławczy oddziału]. Jesteśmy [pozycja (cokolwiek co pozwoli w łatwy sposób ustalić gdzie jesteście, współrzędne, punkt orientacyjny itd.)] [opis co się dzieje]`<br/>
+Ważne jest, aby głównodowodzący wiedział co się dzieje z drużynami. <br/>
+Nie może dojść do sytuacji, w której nie ma kontaktu z drużyną i nie wiadomo nawet gdzie on był.<br/>
+Jeśli drużyna znajduje się pod ostrzałem a dowódca nie jest w bezpiecznym miejscu to powinien jak najszybciej poinformować dowództwo o tym fakcie mniej więcej taką wiadomością:<br/>
+`[Znak wywoławczy dowództwa], tu [Znak wywoławczy drużyny]. Jesteśmy [pozycja (cokolwiek co pozwoli w łatwy sposób ustalić gdzie jesteście, współrzędne, punkt orientacyjny itd.)] [opis co się dzieje]`<br/>
 W ten sposób zmniejsza się szansę, że dowódca zginie zanim przekaże najważniejszą informację dowództwu - uwaga tutaj coś się dzieje.<br/>
 Nawet jeśli poda tylko pozycję i go zabiją, to i tak jest to lepsze niż powiedzenie, że atakuje nas czołg. Taka informacja może być przydatna, ale i tak nie wiadomo gdzie jest ten czołg, czy to na pewno czołg i czy może nie swój.<br/>
 #### Informacje dla dowódców sekcji
-W przypadku, gdy nie ma kontaktu z Waszym dowódcą, jeden z Was powinien przejąć jego obowiązki dowodzenia oddziałem i komunikacji na kanale dowodzenia.<br/>
+W przypadku, gdy nie ma kontaktu z Waszym dowódcą, jeden z Was powinien przejąć jego obowiązki dowodzenia drużyną i komunikacji na kanale dowodzenia.<br/>
 Jeśli od dłuższego czasu dowódca się nie odzywał to nie bójcie się zapytać na radiu. Może się okazać, że od kilku minut nie żyje a w Waszą pozycję zaraz uderzy głowica atomowa.<br/>
-### Ćwiczenia praktyczne - dowódca oddziału rozkazuje zespołom, a dowódcy zespołów poszczególnym ludziom w swoim zespole
-W ćwiczeniu oddział ma zadanie bronić jakiś obiekt/kompleks. <br/>
-Podczas ćwiczenia dowódca oddziału może wydawać polecenia tylko dowódcom zespołów a oni mają je wykonać przy użyciu swojego zespołu. <br/>
+### Ćwiczenia praktyczne - dowódca drużyny rozkazuje zespołom, a dowódcy zespołów poszczególnym ludziom w swoim zespole
+W ćwiczeniu drużyna ma zadanie bronić jakiś obiekt/kompleks. <br/>
+Podczas ćwiczenia dowódca drużyny może wydawać polecenia tylko dowódcom zespołów a oni mają je wykonać przy użyciu swojego zespołu. <br/>
 Dowódcy powinni utrzymywać ze sobą kontakt i współpracować, chyba że zadanie tego nie wymaga.<br/>
-Dowódca oddziału powinien wiedzieć gdzie znajdują się jego zespoły i jakie dał im zadanie, by w razie utraty kontaktu wiedzieć gdzie szukać.<br/>
+Dowódca drużyny powinien wiedzieć gdzie znajdują się jego zespoły i jakie dał im zadanie, by w razie utraty kontaktu wiedzieć gdzie szukać.<br/>
 ## 2. Podstawowa współpraca piechoty z pojazdami
 ### Naprawa pojazdów
 Czasem w pojeździe zostanie zniszczone koło. Nie oznacza to, że należy go porzucić. 
@@ -54,15 +54,15 @@ Jeśli ostrzał następuje od boku, to piechota powinna poruszać się po odpowi
 ### Ćwiczenie praktycze - szturm na wrogie pozycje przy użyciu pojazdów
 ## 3. Podstawowe zasady walki piechoty
 ### Podstawowy podział obowiązków
-#### Dowódca oddziału 
+#### Dowódca drużyny 
 - zajmuje się dowodzeniem sekcjami i komunikacją z wyższym dowództwem oraz innymi oddziałami.<br/>
 #### Dowódca sekcji 
-- dowodzi swoją sekcją według zadań przydzielonych przez dowódcę oddziału. W przypadku jego śmierci przejmuje jego obowiązki.<br/>
+- dowodzi swoją sekcją według zadań przydzielonych przez dowódcę drużyny. W przypadku jego śmierci przejmuje jego obowiązki.<br/>
 #### Szeregowy (reszta) 
 - pilnuje się swojej sekcji i nie oddala się bez wyraźnego pozwolenia. Wykonuje polecenia dowódców.<br/>
 A teraz dokładne rozbicie szeregowych:<br/>
 #### Medyk 
-- trzyma się z tyłu, nie walczy jak nie ma takiej potrzeby. Jego głównym zadaniem jest podnoszenie rannych (generalnie hierarchia jest taka: najważniejsi z sekcji, później z oddziału a na końcu inne oddziały, ale czasem lepiej podnieść medyka żeby szybciej szło) a nie walka. W przypadku, gdy ranny nie znajduje się w bezpiecznym miejscu może polecić komuś przytarganie rannego za osłonę. Pełni rolę zastępcy dowódcy sekcji.<br/>
+- trzyma się z tyłu, nie walczy jak nie ma takiej potrzeby. Jego głównym zadaniem jest podnoszenie rannych (generalnie hierarchia jest taka: najważniejsi z sekcji, później z drużyny a na końcu inne oddziały, ale czasem lepiej podnieść medyka żeby szybciej szło) a nie walka. W przypadku, gdy ranny nie znajduje się w bezpiecznym miejscu może polecić komuś przytarganie rannego za osłonę. Pełni rolę zastępcy dowódcy sekcji.<br/>
 #### Strzelec wyborowy 
 - główne zadanie to eliminowanie celów stanowiących zwiększone zagrożenie (gość z PKM jest bardziej niebezpieczny od kolesia z AK itd.)<br/>
 #### Strzelec KM (M249, PKM itd.)
@@ -71,10 +71,10 @@ A teraz dokładne rozbicie szeregowych:<br/>
 - zwalczanie wrogich celów powietrznych. Najlepiej przed wystrzeleniem zastanowić się czy to w ogóle ma szansę trafić i czy jest sens strzelać (np. w helikopter transportowy jak już zrzucił spadochroniarzy).<br/>
 #### Strzelec AT 
 - zwalczanie wrogich pojazdów opancerzonych. W czołgi strzelać w boki i tył (ale nie pod kątem) a w APC byle gdzie. Uważać na backblast, jeśli za strzelającym jest ściana to może on stracić przytomność. Raczej nie strzelać z budynków.<br/>
-#### Amunicyjni (AA/AT) 
+#### Amunicyjni/Asystenci (AA/AT) 
 - trzymać się blisko strzelców z wyrzutniami, bo mogą oni potrzebować dodatkowych rakiet. Do tego nie dobrze jest jak gdzieś leżą i nie wiadomo gdzie są a są potrzebni.<br/>
 ### Obserwcja pola walki
-Nie ma sensu, żeby wszyscy z oddziału obserwowali ten sam obszar. Należy prowadzić obserwacje szeroko, najlepiej rozdzielić kto gdzie patrzy aby uniknąć oflankowania, które zazwyczaj kończy się śmiercią przynajmniej kilku osób.<br/>
+Nie ma sensu, żeby wszyscy z drużyny obserwowali ten sam obszar. Należy prowadzić obserwacje szeroko, najlepiej rozdzielić kto gdzie patrzy aby uniknąć oflankowania, które zazwyczaj kończy się śmiercią przynajmniej kilku osób.<br/>
 ### Obsługa dostępnego sprzętu
 #### Granat dymny 
 - Dobre do osłaniania podejścia, odwrotu, przejścia czy przeniesienia. <br/>

@@ -1,22 +1,18 @@
 # Informator
+
+To nie jest ostateczna wersja. 
+Na razie za przydatne można uznać "Wskazówki dla dowódców" oraz początek rozdziału "Radio i komunikacja" (bez podrozdziałów - to tylko sugestia)
+Ułożenie kanałów zostało oficjalnie zatwierdzone, ale może być nieco inne w misjach. Jeśli w misji nie jest powiedziane jakiego używamy, to używamy tego, a nie jakiegoś wymyślonego.
+
 ## Spis treści
-[Wskazówki dla Madina odnośnie misji](https://github.com/lukaszlusz/Program-szkolen-special/blob/master/Informator.md#wskaz%C3%B3wki-dla-madina)<br/>
 [Wskazówki dla dowódców](https://github.com/lukaszlusz/Program-szkolen-special/blob/master/Informator.md#wskaz%C3%B3wki-dla-dow%C3%B3dc%C3%B3w)<br/>
+[Wskazówki dla pilotów](https://github.com/lukaszlusz/Program-szkolen-special/blob/master/Informator.md#wskaz%C3%B3wki-dla-pilot%C3%B3w)<br/>
 [Radio i komunikacja](https://github.com/lukaszlusz/Program-szkolen-special/blob/master/Informator.md#radio-i-komunikacja)<br/>
 	+ [Znaczniki na mapie](https://github.com/lukaszlusz/Program-szkolen-special/blob/master/Informator.md#znaczniki-na-mapie)<br/>
 	+ [Kanały radiowe](https://github.com/lukaszlusz/Program-szkolen-special/blob/master/Informator.md#kana%C5%82y-radiowe)<br/>
 
-## Wskazówki dla Madina
-
-Odnośnie misji (12.07 - Środa) na Czarnorusi:
-* Zmienić domyślne kanały radiowe oddziałów według [poniższej tabelki](https://github.com/lukaszlusz/Program-szkolen-special/blob/master/Informator.md#kana%C5%82y-radiowe) - czas posprzątać ten bałagan, a najlepszym sposobem jest narzucenie zmiany odgórnie. No chyba, że w tej misji nie ma automatycznych kanałów na starcie, to po prostu Iter na początku napisze jak ma być.
-* Wyposażyć piechotę w więcej pojazdów takich jak BTR (70/80). 1 na oddział będzie ok, zawsze to trochę siły ognia ale przede wszystkim może działać jako ruchoma osłona (UAZ i URAL nie bardzo). To powinno zmniejszyć straty przy szturmach przez otwarte pole (oczywiście jak będzie dobrze wykorzystane).
-* Nie wiem czy tak było, ale w module ACE od uzupełniania amunicji dać, żeby zapasy były nieskończone.
-* Dobrze by było ustawić helikopter jako pojazd naprawczy. Dodatkowo dodać skrzynkę, która może uzupełniać amunicję w pojazdach [Box_NATO_AmmoVeh_F] (dać też jako naprawczą, bo może się nie dać wylądować helikopterem). Wtedy ekipa Medevac będzie mogła też pełnić funkcję serwisu polowego. Pozostaje tylko kwestia czy chcemy, żeby tylko ekipa Medevac mogła naprawiać pojazdy do białego (ustawienie 'Lokalizacja pełnej naprawy'). No i już wiemy jak naprawiać do białego, źle to robiliśmy po prostu, teraz nie będzie problemu.
-* Dodać ze 4 (bo medycy chyba też powinni móc naprawiać na maksa) plecaki do helikoptera czy gdzieś w szpitalu (na narzędzia, bo się nie mieszczą nigdzie indziej) oraz te hełmy lotnicze zsz cośtam.
-* Zmienić pojazdy serwisowe na Zieloni/AAF/Samochody/Kamaz, bo te HEMTT'y nie dość że amerykańskie, to jeszcze wielkie okropnie a zaopatrzenia mają tyle samo. A, cysterny są jedynymi pojazdami z limitem zaopatrzenia, więc będzie je trzeba podczas misji wymieniać. 
-* Jeśli podczas misji będzie potrzeba pojazdów czy zrzutów zaopatrzenia, to dobrze zlecić to zadanie ekipie Medevac.
-* I ostatnia sprawa, czysto kosmetyczna, jeśli Ci się nie podoba, to nie ma sprawy. Zmienić ustawienia wizualne Mi-8. Skórka: United Nations (biały - będzie ewidentnie widać, że medyczny a nie wróg). Kolor numerów: Aviation Red. Numer boczny: 69 ( ͡° ͜ʖ ͡°). Napisy na ogonie: VVS Russia.
+## Przemyślenia po misji
+* Na razie brak
 
 ## Wskazówki dla dowódców
 Starałem się to napisać tak, żeby przydało się nawet osobom, które nie dowodzą.
@@ -35,32 +31,61 @@ Starałem się to napisać tak, żeby przydało się nawet osobom, które nie do
 * Zanim wezwiesz Medevac zapytaj sąsiednich oddziałów czy im również by się nie przydał. Jeśli tak, to poinformuj ich o planowanej SL i uwzględnij ich rannych w wezwaniu.
 * Bezwzględnie poinformuj dowództwo, że oddajesz rannych do transportu. Tak samo gdy proces zostanie zakończony (Medevac odleci).
 
+## Wskazówki dla pilotów
+* Podstawowa zasada - podczas misji masz jedną maszynę i masz o nią dbać.
+* Nie ryzykuj bez powodu. Latanie nisko i szybko wygląda fajnie, ale jest niebezpieczne.
+* Nie wlatuj w strefy, gdzie nie jesteś pewien co do obecności broni przeciwlotniczej.
+* Jeśli okaże się, że w pobliżu znajduje się broń przeciwlotnicza to powinieneś natychmiast opuścić obszar.
+* Staraj się cały czas poruszać. Minimalizuje to skuteczność broni ręcznej.
+* Używaj swojej maszyny jako osłony przed pociskami - jeśli jesteś po prawej stronie helikoptera, to ustaw go tak, żeby wróg był po lewej stronie. W ten sposób zmniejszasz szansę na trafienie, które może spowodować nieprzytomność i w konsekwencji utratę helikoptera.
+* Do pilota należy ostatnie słowo w kwestii startu/lądowania. Jeśli przewozisz jakąś piechotę to nie ulegaj naciskom, żeby lądować jeśli nie jesteś pewien, że dasz radę to zrobić.
+* Piloci w obrębie jednej maszyny powinni podzielić się obowiązkami - ten który nie pilotuje powinien nawigować oraz kontaktować się przez radio.
+* ZAWSZE MIEJ ODBLOKOWANY STER. Nie może być sytuacji, że umierasz i drugi pilot nic nie może zrobić. On jest od tego, żeby w takiej sytuacji przejąć ster i uratować maszynę.
+* Unikaj latania bez drugiego pilota. Znacznie zwiększa to ryzyko, że coś pójdzie nie tak.
+* Jeśli pełnisz rolę wsparcia powietrznego to rozważnie zarządzaj dostępnym uzbrojeniem. Wywalenie 10 rakiet w jedną ciężarówkę nie uczyni jej bardziej martwą.
+* Bardzo ważna jest dobra współpraca pilotów, szczególnie w helikopterze bojowym.
+
 ## Radio i komunikacja
 * Najważniejszym celem tego 'poradnika' nie jest nauka formułek komunikacyjnych, tylko ułatwienie przekazywania informacji.
 * Nie przerywamy jak ktoś coś mówi, chyba że mamy coś ważniejszego do powiedzenia. Można wtedy użyć formułki `Break, break, break` lub różnych spolszczonych odmian `Czej, czej, czej`, `Stop, stop, stop` (to bym zachował na najgorsze sytuacje jak np. spadający helikopter, chociaż on pewnie będzie `Mayday, mayday` :D). Bardzo prawdopodobne, że nieważne jakie to będzie słowo, to wypowiedziane 3 razy powinno zamknąć innym dzioby.
+* Jeśli usłyszysz `Mayday, mayday` to natychmiast rzucasz wszystko (a w szczególności nic nie mówisz!), otwierasz mapę i starasz się zanotować koordynaty, pozycję czy cokolwiek co podaje załoga, żeby można było wysłać ekipę ratunkową.
 * Staraj się przekazywać informacje sprawnie i zwięźle, żeby nie blokować innych.
-* Pomyśl zanim zaczniesz krzyczeć `"CZOŁG< CZOŁG< CZOŁG!!1!11!1"`. Czasem lepiej zastanowić się 5 sekund i powiedzieć `"Czołg wjeżdża do miasta od wschodu"`. Zajmuje to trochę dłużej, ale przekazuje aż 4 ważne informacje a nie tylko 1 - Nie dość że czołg, to jeszcze się porusza (wjeżdża) i nawet mniej więcej wiemy gdzie jest (na wschód od miasta) i dokąd zmierza (wjeżdża do miasta).
+* Pomyśl zanim zaczniesz krzyczeć `"CZOŁG< CZOŁG< CZOŁG!!1!11!1"`. Czasem lepiej zastanowić się 5 sekund i powiedzieć `"Czołg wjeżdża do miasta od wschodu"`. Zajmuje to trochę dłużej, ale przekazuje aż 4 ważne informacje a nie tylko 1 - Nie dość że czołg [1], to jeszcze się porusza [2] (wjeżdża) i nawet mniej więcej wiemy gdzie jest [3] (na wschód od miasta) i dokąd zmierza [4] (wjeżdża do miasta).
 * Dobrym pomysłem jest zbieranie dodatkowych informacji podczas samego meldowania: `KONTAKT Wschód! Piechota z 300 m stąd. Widzę z 20 ludzi, zmierzają do miasta.`
-* Na szczeblu plutonowym (poza oddziałem) staraj się komunikować według przykładu [opcjonalne]: <br/>
-`Alpha: "Alpha do Zulu, [odbiór].";`<br/>
-`Zulu: "[Tu] Zulu, zgłaszam się.";`<br/>
-`Alpha: "Nie damy rady zająć 'nazwa jakiejś wioski'. Brakuje nam amunicji i ponosimy duże straty.";`<br/>
-`Zulu: "Przyjąłem Alpha, wycofajcie się do 'jakiś punkt', zaraz skombinuję tam jakieś wsparcie, [odbiór].";`<br/>
-`Alpha: "Zrozumiałem [Zulu], wycofujemy się do 'jakiś punkt', [Alpha bez odbioru].";`
+* Na szczeblu plutonowym (poza oddziałem) staraj się komunikować według przykładu [w takim nawiasie - opcjonalne]:
+```
+- Alpha: "Zulu tu Alpha, [odbiór].
+- Zulu: "[Tu] Zulu, zgłaszam się.
+- Alpha: "Nie damy rady zająć 'nazwa jakiejś wioski'. Brakuje nam amunicji i ponosimy duże straty, możemy się wycofać?
+- Zulu: "Przyjąłem Alpha, wycofajcie się do 'jakiś punkt', zaraz skombinuję tam jakieś wsparcie, [odbiór].
+- Alpha: "Zrozumiałem [Zulu], wycofujemy się do 'jakiś punkt', [Alpha bez odbioru].
+```
+Widzisz co tu się stało? 
+Przed rozpoczęciem przekazywania informacji dowódca oddziału Alpha upewnia się, że ktoś go słucha. 
+Następnie mówi co miał do przekazania i w tej sytuacji czeka na rozkazy. 
+Zulu wydaje rozkaz, a Alpha potwierdza jego otrzymanie poprzez powtórzenie jego treści. 
+W ten sposób Zulu wie, że Alpha otrzymała rozkazy i będzie postępować zgodnie z ich brzmieniem.
+Mówienie `[odbiór]` nie jest konieczne, wystarczy żeby było jasne, że skończyłeś mówić i czekasz na odpowiedź.
+W sytuacji, gdy uznajesz rozmowę za zakończoną dobrze jest poinformować drugą stronę o tym fakcie (szczególnie jeśli zamierzasz zmienić kanał!) na przykład poprzez `[bez odbioru]`.
 * Podczas wzywania Medevac, transportu, zrzutu czy podobnej usługi stosuj podobny sposób komunikacji, ale pamiętaj o podaniu kilku ważnych informacji:<br/>
- Pozycja (minimum współrzędne na mapie, dobrze jeszcze jakieś punkty orientacyjne czy znaczniki na mapie)<br/>
- Liczba rannych (tylko do Medevac)(nie będzie tak, że powiesz 4 a będzie 5 i 1 zostanie. Chodzi o zapewnienie jednostce Medevac możliwości zaplanowania kursu)<br/>
- Sytuacja w SL [Bezpiecznie, Możliwy kontakt z wrogiem, Kontakt z wrogiem, Brak danych]<br/>
- Rodzaj lądowiska (np. między pojazdami, na placu w mieście, na dachu budynku, kolor dymu, wszystko inne co może być pomocne przy lądowaniu)<br/><br/>
-`Alpha: Alpha do Mike/Medevac, [odbiór].";`<br/>
-`Mike/Medevac: [Tu] Mike/Medevac, zgłaszam się.";`<br/>
-`Alpha: Potrzebny Medevac na pozycję [016043], mamy 4 rannych. W okolicy słychać strzały, ale w samej SL jest bezpiecznie. Zaznaczyłem na mapie miejsce lądowania na różowo, taki plac/targ. Jak dacie sygnał to rzucimy zielony dym, [odbiór].";`<br/>
-`Mike/Medevac: Tu Mike/Medevac, przyjąłem zgłoszenie, pozycja [016043], będziemy za około 5 minut, [bez odbioru].";`<br/>
-
+ 1. Pozycja (minimum współrzędne na mapie, dobrze jeszcze jakieś punkty orientacyjne czy znaczniki na mapie)<br/>
+ 2. Liczba rannych (tylko do Medevac)(nie będzie tak, że powiesz 4 a będzie 5 i 1 zostanie. Chodzi o zapewnienie jednostce Medevac możliwości zaplanowania kursu)<br/>
+ 3. Sytuacja w SL [Bezpiecznie, Możliwy kontakt z wrogiem, Kontakt z wrogiem, Brak danych]<br/>
+ 4. Rodzaj lądowiska (np. między pojazdami, na placu w mieście, na dachu budynku, kolor dymu, wszystko inne co może być pomocne przy lądowaniu czy innym zapewnianiu wsparcia jak zrzut)
+```
+- Alpha: Mike/Medevac tu Alpha, [odbiór].
+- Mike/Medevac: [Tu] Mike/Medevac, zgłaszam się.
+- Alpha: Potrzebny Medevac na pozycję [016043], mamy 4 rannych. W okolicy słychać strzały, ale w samej SL jest bezpiecznie. Zaznaczyłem na mapie miejsce lądowania na różowo, taki plac/targ. Jak dacie sygnał to rzucimy zielony dym, [odbiór].
+- Mike/Medevac: Tu Mike/Medevac, przyjąłem zgłoszenie, pozycja [016043], będziemy za około 5 minut, [bez odbioru].
+```
 Jeszcze tu wypiszę inne rzeczy jak konkretne meldunki czy sposoby wzywania wsparcia.
 
-
 ### Znaczniki na mapie
+* Dowódcy powinni co jakiś czas oznaczać na mapie swoją pozycję i planowane przemieszczenie.
+* Jeśli coś oznaczasz na mapie, to postaraj się, żeby osoby które nie wiedzą o co chodzi mogły się łatwo dowiedzieć patrząc na to co jest napisane przy znaczniku. Unikaj stawiania znaczników typu "tu", "ja", "my".
+* Oznaczenia bardzo pomagają ogarnąć jaka jest sytuacja. Znacznie ułatwiają kooperację między drużynami, pojazdami i wsparciem.
+* Usuwaj nieaktualnie znaki (ale swoje, nie innych)
+---
 Dobrym pomysłem może być przydzielenie każdemu oddziałowi osobnego koloru do rysowania po mapie. 
 Wtedy można znacznie szybciej sprawdzić kto postawił znacznik i czy nas interesuje. 
 Jak wszyscy robią na czarno to nie jest to takie przejrzyste.
@@ -72,7 +97,10 @@ Nie musi być od razu na takim poziomie, ale jakby powiedzieć żeby coś takieg
 <br/>
 Zdecydowanie lepiej byłoby, gdyby dać osobny kolor nie dla oddziału, tylko dla rodzaju przekazywanej informacji (umocnienia itp. jednym kolorem, pojazdy drugim, czołgi jeszcze innym), ale ważniejsze chyba jest, żeby przekazać informację, niż szukać odpowiedniego koloru.
 ### Kanały radiowe
-Proponowane ułożenie kanałów radiowych <br/>
+Jeśli w misji nie ma określonej rozpiski kanałów, to zazwyczaj głównodowodzący, albo jakaś wyznaczona osoba napisze na mapie na czacie ogólnym kto ma jakie kanały.
+Jeśli nie ma osoby, która rozpisze kanały to używamy tej rozpiski. Nie wymyślać sobie jak Wam pasuje, tylko proszę się dostosować. Znacznie ułatwia to pracę WSZYSTKIM.
+
+Ułożenie kanałów radiowych <br/>
 D - długie radio <br/>
 K - krótkie radio <br/>
 60 lub 50 - jeśli Medevac pełni dodatkowo funkcję CAS to wtedy ten sam kanał (50) <br/>
